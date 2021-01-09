@@ -27,7 +27,7 @@
                 "no_follow": true
             },
             {
-                "label": "About",
+                "label": "",
                 "url": "/about/",
                 "style": "link"
             },
