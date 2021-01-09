@@ -15,7 +15,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: e-Posta
         default_value: Your email address
         is_required: true
       - input_type: select
