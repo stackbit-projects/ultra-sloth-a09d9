@@ -1,9 +1,7 @@
 ---
 title: Kevin De Bruyne
 subtitle: A cautionary tale about riding
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+excerpt: ''
 date: '2021-01-09'
 thumb_img_path: images/0x0-fifa-the-best-yilin-en-iyi-ilk-11i-aciklandi-1608237153192.jpg
 thumb_img_alt: A motorcycle in a forest
