@@ -1,5 +1,5 @@
 ---
-title: How To Choose An Interior Designer
+title: ''
 subtitle: ''
 excerpt: >-
   Interior design is “the art or process of designing the interior, often
@@ -9,7 +9,6 @@ excerpt: >-
   with the stakeholders of a project and the management and execution of the
   design.
 date: ''
-thumb_img_path: images/1.jpg
 thumb_img_alt: A wooden table and white chairs
 template: post
 ---
