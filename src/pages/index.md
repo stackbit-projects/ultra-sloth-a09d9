@@ -17,7 +17,9 @@ sections:
       2020 Yılında Dünya Futbolunun En'leri ...
     actions:
       - label: Contact Me
-        url: /contact
+        url: >-
+          /Spor hayata tutunmanın bir dalıdır. Söz ola kese savaşı, Söz ola
+          kestire başı
         style: button
   - section_id: recent-posts
     type: section_posts
