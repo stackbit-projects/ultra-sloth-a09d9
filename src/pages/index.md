@@ -16,7 +16,7 @@ sections:
       Dünya Futbolunda İz Bırakmış Futbolcular Hakkında Bilginiz Var Mı ? İşte
       2020 Yılında Dünya Futbolunun En'leri ...
     actions:
-      - label: 'EN İYİ 11... '
+      - label: 'EN İYİ 11 ... '
         url: >-
           https://www.fotomac.com.tr/galeri/futbol/fifa-the-best-yilin-en-iyi-ilk-11i-aciklandi
         style: button
