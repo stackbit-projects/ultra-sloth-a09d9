@@ -8,7 +8,7 @@ date: '2019-03-27'
 thumb_img_path: images/VAN DIJK.jpg
 thumb_img_alt: Virgil Van Dijk
 content_img_path: images/pink-crane.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Virgil Van Dijk
 template: post
 subtitle: STOPER
 ---
