@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Merhaba, Ben Furkan'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Dünya futbolunda çok önemli isimleri sıkça haber kanallarından takip
+      ediyoruz . Peki sizce dünya'nın en yetenekli oyuncuları kimler ? Gelin hep
+      beraber dünyanın en yetenekli futbolcularını kısaca inceleyelim
   - section_id: about
     type: section_content
     title: About
