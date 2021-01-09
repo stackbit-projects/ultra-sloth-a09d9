@@ -2,7 +2,7 @@
 title: ''
 subtitle: ''
 excerpt: ''
-date: '2018-01-11'
+date: ''
 thumb_img_alt: A red fox in a rocky forest
 content_img_path: images/5.jpg
 content_img_alt: A red fox in a rocky forest
