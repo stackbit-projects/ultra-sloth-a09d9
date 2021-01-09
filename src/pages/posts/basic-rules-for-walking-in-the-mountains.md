@@ -8,7 +8,6 @@ excerpt: >-
 date: ''
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 template: post
 ---
