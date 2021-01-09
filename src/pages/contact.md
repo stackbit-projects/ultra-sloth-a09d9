@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Bizimle İletişime Geçin ...
 hide_title: false
 sections:
   - section_id: contact-form
