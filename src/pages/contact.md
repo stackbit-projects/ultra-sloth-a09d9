@@ -32,9 +32,7 @@ sections:
         default_value: ''
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: Yukarıda Yazılanları Onaylıyorum
     submit_label: gönder
 template: advanced
 ---
