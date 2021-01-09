@@ -22,7 +22,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: MEVKİLERİNDE EN'LER...
     posts_number: 4
     actions:
       - label: View Blog
