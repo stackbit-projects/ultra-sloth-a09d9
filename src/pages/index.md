@@ -26,7 +26,7 @@ sections:
     posts_number: 4
     actions:
       - label: VİDEO İÇİN TIKLAYIN !
-        url: blog/index.html
+        url: 'https://www.youtube.com/watch?v=KhBrWvvIvdU'
         style: button
 template: advanced
 ---
