@@ -6,7 +6,7 @@ excerpt: >-
   see the use of tatami mats and sliding doors that break down the distinction
   between rooms and indoor and outdoor space.
 date: '2019-03-24'
-thumb_img_path: images/2.jpg
+thumb_img_path: images/0x0-fifa-the-best-yilin-en-iyi-ilk-11i-aciklandi-1608237154683.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
