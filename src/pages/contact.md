@@ -19,7 +19,7 @@ sections:
         default_value: ''
         is_required: true
       - input_type: select
-        name: subject
+        name: ''
         label: Konu
         default_value: Please select
         options:
