@@ -8,4 +8,5 @@ thumb_img_alt: Alisson Ramses Becker
 content_img_path: images/amazing-giraffe.jpg
 content_img_alt: Hikers on the trail
 template: post
+thumb_img_path: images/elite-spinach.jpg
 ---
