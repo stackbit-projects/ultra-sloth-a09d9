@@ -3,30 +3,31 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "FUTBOL YAŞAM",
+        "tagline": "FIFA",
+        "profile_img": "images/331119.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "ANASAYFA",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "EN'LER",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "",
                 "url": "/style-guide/",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
-                "label": "About",
+                "label": "",
                 "url": "/about/",
                 "style": "link"
             },
@@ -76,7 +77,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "all rights reserved ... produced by furkan yalçınkaya"
     },
     "title": "Stackbit Fresh Theme"
 }
