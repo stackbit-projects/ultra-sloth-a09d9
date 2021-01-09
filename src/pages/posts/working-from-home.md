@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: ''
 excerpt: ''
 date: '2016-08-22'
 thumb_img_alt: A man sitting at the table
