@@ -28,5 +28,6 @@ sections:
       - label: VİDEO İÇİN TIKLAYIN !
         url: 'https://www.youtube.com/watch?v=KhBrWvvIvdU'
         style: button
+        new_window: true
 template: advanced
 ---
