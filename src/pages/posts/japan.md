@@ -7,7 +7,7 @@ excerpt: >-
   between rooms and indoor and outdoor space.
 date: '2021-01-09'
 thumb_img_path: images/0x0-fifa-the-best-yilin-en-iyi-ilk-11i-aciklandi-1608237154683.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
+thumb_img_alt: Cristiano Ronaldo
 content_img_path: images/2.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 template: post
