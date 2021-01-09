@@ -17,7 +17,8 @@ sections:
       2020 Yılında Dünya Futbolunun En'leri ...
     actions:
       - label: Contact Me
-        url: ''
+        url: >-
+          https://www.fotomac.com.tr/galeri/futbol/fifa-the-best-yilin-en-iyi-ilk-11i-aciklandi
         style: button
   - section_id: recent-posts
     type: section_posts
